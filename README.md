@@ -1,7 +1,4 @@
 # tdd-practice-in-cpp
-
-# clean-code-repo
-
 Build a StringCalculator functionality that can take up to two numbers, separated by commas, and will return their sum. 
 for example “” or “1” or “1,2” as inputs.
 
